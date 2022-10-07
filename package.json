@@ -1,0 +1,25 @@
+{
+  "name": "hsq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "chowdown": "^1.2.6",
+    "crypto": "^1.0.1",
+    "https-proxy-agent": "^5.0.1",
+    "iconv-lite": "^0.6.3",
+    "node-localstorage": "^2.2.1",
+    "superagent": "^8.0.2",
+    "superagent-charset": "^1.2.0",
+    "tunnel": "^0.0.6",
+    "uuid": "^9.0.0"
+  }
+}
